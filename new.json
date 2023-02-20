@@ -1,0 +1,15 @@
+{
+	"user_name": "Oleg",
+	"user_second_name": "Kurmenev",
+	"user_age": 34,
+	"number_of_pets": 10,
+	"pets":{
+		"cat": "Mishel",
+		"fish": "No name"
+	}
+	"desired_salary": "10$**10/per second of course",
+	
+}
+
+
+
